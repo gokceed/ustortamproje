@@ -1,0 +1,222 @@
+[{
+	"sınıf":"Lisans",
+	 "sinifno":[
+	 	{"id":1,
+	 		"donem":[
+	 			{"ad":"güz1",
+	 				
+"ders":[{"x" : ["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" , "4:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x" : ["Pazartesi","BOŞ ","Algoritma ve Progrmalama I", "Algoritma ve Progrmalama I" ,"Algoritma ve Progrmalama I","Turk Dili I","Turk Dili I","Fizik I Uyg", "Fizik I Uyg", " BOŞ "]},
+
+{"x" :["Sali", "BOŞ  ", "Fizik I" , "Fizik I" , "Fizik I", "Ataturk Ilkeleri ve Inkilap Tarihi I", "Ataturk Ilkeleri ve Inkilap Tarihi I", "Bilgisayar Muhendisligine Giris", "Universite Yasamina Gecis", "BOŞ "]},
+
+{"x": ["Carsamba","BOŞ  ","Matematik I","Matematik I", "Matematik I" ,"Matematik I Uyg","Matematik I Uyg","Sozlu ve Yazili Iletisim","Sozlu ve Yazili Iletisim", "BOŞ "]},
+
+{"x" : ["Persembe"," BOŞ ","Technical English", "Technical English" ,"Technical English"," BOŞ "," BOŞ ","Fizik I Uyg", "Fizik I Uyg", " BOŞ "]},
+
+{"x":["Cuma","Algoritma ve Progrmalama I Uyg","Algoritma ve Progrmalama I Uyg", "Algoritma ve Progrmalama I Uyg" ,"Algoritma ve Progrmalama I Uyg","Algoritma ve Progrmalama I Uyg","Algoritma ve Progrmalama I Uyg","Fizik I Uyg", "Fizik I Uyg", " BOŞ "]}]
+
+	 			},{"ad":"bahar1",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi","BOŞ ","Algoritma ve Progrmalama II", "Algoritma ve Progrmalama II" ,"Algoritma ve Progrmalama II","Turk Dili II","Turk Dili II","Fizik II Uyg", "Fizik II Uyg", " BOŞ "]},
+
+{"x":["Sali", "BOŞ  ", "Fizik II" , "Fizik II" , "Fizik II", "Ataturk Ilkeleri ve Inkilap Tarihi II", "Ataturk Ilkeleri ve Inkilap Tarihi II", "Fizik II Uyg", "Fizik II Uyg", "BOŞ "]
+},
+
+{"x":["Carsamba","BOŞ  ","Matematik II","Matematik II", "Matematik II" ,"Matematik II Uyg","Matematik II Uyg","BOŞ ","BOŞ ", "BOŞ "]
+},
+
+{"x":["Persembe"," BOŞ ","Ayrik Yapilar", "Ayrik Yapilar" ,"Ayrik Yapilar","Introduction to Computer Science "," Introduction to Computer Science","Introduction to Computer Science", "BOŞ  ", " BOŞ "]
+},
+
+{"x":["Cuma"," BOŞ ","Algoritma ve Progrmalama II Uyg", "Algoritma ve Progrmalama II Uyg" ,"Algoritma ve Progrmalama II Uyg","Algoritma ve Progrmalama II Uyg","Algoritma ve Progrmalama II Uyg","Algoritma ve Progrmalama II Uyg", "Algoritma ve Progrmalama II Uyg", " BOŞ "]
+
+}]
+
+
+	 			}
+	 		]
+
+	 	},
+	 	{"id":2,
+	 	"donem":[
+	 			{"ad":"güz2",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi","Mantik Devreleri Tasarimi Lab","Mantik Devreleri Tasarimi Lab", "Electronical Circuits Lab" ,"Electronical Circuits Lab","Mantik Devreleri Tasarimi","Mantik Devreleri Tasarimi","Mantik Devreleri Tasarimi", " BOŞ ", "BOŞ  "]
+},
+
+{"x":["Sali", "BOŞ  ", "Electronical Circuits" , "Electronical Circuits" , "Electronical Circuits", "Data Structures", "Data Structures", "Data Structures", " BOŞ ", "BOŞ "]
+
+},
+
+{"x":["Carsamba"," BOŞ ","Olasilik ve Istatistik","Olasilik ve Istatistik", "Olasilik ve Istatistik" ,"Mantik Devreleri Tasarimi Lab","Mantik Devreleri Tasarimi Lab","Mantik Devreleri Tasarimi Lab","Mantik Devreleri Tasarimi Lab", "BOŞ "]
+},
+
+{"x":["Persembe","Olasilik ve Istatistik Uyg","Olasilik ve Istatistik Uyg", "Olasilik ve Istatistik Uyg" ,"Olasilik ve Istatistik Uyg"," BOŞ ","Data Structures Uyg","Data Structures Uyg", "Data Structures Uyg", " BOŞ "]
+
+},
+
+{"x":["Cuma","Mantik Devreleri Tasarimi Lab","Diferansiyel Denklemler", "Diferansiyel Denklemler" ,"Diferansiyel Denklemler"," Automata Theory","Automata Theory","Automata Theory", " BOŞ ", " BOŞ "]}]
+
+
+
+	 			},{"ad":"bahar2",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi","BOŞ  ","BOŞ  ", "Digital Electronics Lab" ,"Digital Electronics Lab","Programming Languages Uyg","Programming Languages Uyg","Programming Languages Uyg", " Programming Languages Uyg", " Programming Languages Uyg"]
+},
+
+{"x":["Sali", "BOŞ  ", "BOŞ  " , "Digital Electronics Lab" , "Digital Electronics Lab", "Digital Computer Design ", "Digital Computer Design", "Digital Computer Design", " Dogrusal Cebir ve Numerik Yontemler Uyg", "Dogrusal Cebir ve Numerik Yontemler Uyg"]
+},
+
+{"x":["Carsamba"," BOŞ ","Programming Languages","Programming Languages", "Programming Languages" ,"Dogrusal Cebir ve Numerik Yontemler Uyg","Dogrusal Cebir ve Numerik Yontemler Uyg","Topluma Hizmet","BOŞ  ", " BOŞ "]},
+
+
+{"x":["Persembe"," BOŞ ","Dogrusal Cebir ve Numerik Yontemler", "Dogrusal Cebir ve Numerik Yontemler" ,"Dogrusal Cebir ve Numerik Yontemler","Digital Computer Design Uyg ","Digital Computer Design Uyg","Digital Computer Design Uyg", "Digital Computer Design Uyg", " "]
+},
+
+{"x":["Cuma","BOŞ  ","Modern Biyoloji", "Modern Biyoloji" ,"Modern Biyoloji"," Digital Electronics Uyg","Digital Electronics Uyg","Dogrusal Cebir ve Numerik Yontemler Uyg", "Dogrusal Cebir ve Numerik Yontemler Uyg ", "Dogrusal Cebir ve Numerik Yontemler Uyg "]
+}]
+
+	 			}
+	 		]},
+	 	{"id":3,
+	 	"donem":[
+	 			{"ad":"güz3",
+
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi","BOŞ ","BOŞ ", "BOŞ " ,"BOŞ ","Ustortam Progrmalama","Ustortam Progrmalama","Ustortam Progrmalama"]
+},
+
+{"x":["Sali", " BOŞ ", "Windows Progrmalama" , "Windows Progrmalama" , "Windows Progrmalama", "Mikroislemciler", "Mikroislemciler", "Mikroislemciler"]
+},
+
+{"x":["Carsamba","Mikroislemciler Uyg","Mikroislemciler Uyg", "Mikroislemciler Uyg" ,"Mikroislemciler Uyg","Nesneye Dayali Progrmalama","Nesneye Dayali Progrmalama","Nesneye Dayali Progrmalama"]
+},
+
+{"x":["Persembe","BOŞ ","Database Management", "Database Management" ,"Database Management","Bilgisayar Aglari","Bilgisayar Aglari","Bilgisayar Aglari"]
+},
+
+{"x":["Cuma","BOŞ ","BOŞ ", "Database Management Uyg" ,"Database Management Uyg","Isletim Sistemleri","Isletim Sistemleri","Isletim Sistemleri"]
+
+}]
+
+
+
+	 			},{"ad":"bahar3",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi","Microcontroller Based System Design Uyg"," Microcontroller Based System Design Uyg", "Microcontroller Based System Design Uyg" ,"Microcontroller Based System Design Uyg","Kriptoloji","Kriptoloji","Kriptoloji", "BOŞ  ", " BOŞ "]
+},
+
+{"x":["Sali", "BOŞ  ", " Web Tabanli Windows Programlama" , "Web Tabanli Windows Programlama" , "Web Tabanli Windows Programlama", "Object Oriented Analysis Design ", "Object Oriented Analysis Design", "Object Oriented Analysis Design", "BOŞ  ", " BOŞ "]
+},
+
+{"x":["Carsamba","BOŞ  ","Analysis of Algorithms","Analysis of Algorithms", "Analysis of Algorithms" ,"Bilgisayar Grafikleri","Bilgisayar Grafikleri","Bilgisayar Grafikleri"," BOŞ ", "BOŞ  "]
+},
+
+{"x":["Persembe"," BOŞ ","BOŞ  ", "Microcontroller Based System Design" ,"Microcontroller Based System Design","Sunucu Yazilim Teknolojileri","Sunucu Yazilim Teknolojileri ","Ag Teknolojileri", "Ag Teknolojileri", " BOŞ "]
+},
+
+{"x":["Cuma","Sistem Programlama","Sistem Programlama", "Sistem Programlama Uyg" ,"Sistem Programlama Uyg"," Ontoloji Muhendisligi","Ontoloji Muhendisligi","Ontoloji Muhendisligi", "BOŞ  ", " BOŞ "]
+}]
+
+
+
+	 			}
+	 		]},
+	 	{"id":4,
+	 	"donem":[
+	 			{"ad":"güz4",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi","Temel Bankacilik ve Bilisim Teknolojileri"," Temel Bankacilik ve Bilisim Teknolojileri", " BOŞ " ,"BOŞ  ","Software Engineering Uyg","Software Engineering Uyg","Software Engineering Uyg", " Software Engineering Uyg", "BOŞ  "]
+},
+
+{"x":["Sali", "Bitirme Tezi Donemlik", " Software Engineering" , "Software Engineering" , "Software Engineering", "Bilgi Gosterimi ", "Bilgi Gosterimi", "Bilgi Gosterimi", "BOŞ  ", " BOŞ "]
+},
+
+{"x":["Carsamba","Bitirme Tezi Donemlik  "," BOŞ ","Software Engineering Uyg", "Software Engineering Uyg" ,"Girisimcilik ve Etik","Girisimcilik ve Etik","Muhendisler Icin Temel Yonetim ve Yoneticilik Becerileri","Muhendisler Icin Temel Yonetim ve Yoneticilik Becerileri", "Inovasyon, Teknoloji ve Girisimcilik"]
+},
+
+{"x":["Persembe"," Bitirme Tezi Donemlik ","Yonetim Bilisim Sistemleri", "Yonetim Bilisim Sistemleri" ,"Kriptoloji","Is Sagligi ve Guvenligi I","Is Sagligi ve Guvenligi I ","BOŞ  ", "Bitirme Tezi Donemlik / Bitirme Tezi", "Girisimcilik, Fikri ve Sinai Mulkiyet Haklarina Giris "]
+},
+
+{"x":["Cuma","Bitirme Tezi Donemlik ","Gomulu ve Gercek Zamanli Sist", "Gomulu ve Gercek Zamanli Sist" ,"Gomulu ve Gercek Zamanli Sist"," Veri Madenciligi","Veri Madenciligi","Veri Madenciligi", " Bitirme Tezi Donemlik / Bitirme Tezi", " BOŞ "]
+}]
+
+
+
+	 			},{"ad":"bahar4",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi"," "," Uretim Bilgi Sistemleri", "Uretim Bilgi Sistemleri " ," Uretim Bilgi Sistemleri","Computer Architecture","Computer Architecture","Computer Architecture", " Bitirme Tezi Donemlik/ Bitirme Tezi", " BOŞ "]
+},
+
+{"x":["Sali", " ", " Yoneylem Arastirmasi" , "Yoneylem Arastirmasi" , "Yoneylem Arastirmasi", " BOŞ ", " BOŞ ", " BOŞ ", " BOŞ ", "BOŞ  "]
+},
+
+{"x":["Carsamba","Bitirme Tezi Donemlik/ Bitirme Tezi  ","Islemsel Zeka ","Islemsel Zeka ", "Islemsel Zeka " ,"Girisimcilik ve Etik","Girisimcilik ve Etik","Muhendisler Icin Temel Yonetim ve Yoneticilik Becerileri","Muhendisler Icin Temel Yonetim ve Yoneticilik Becerileri", "Inovasyon, Teknoloji ve Girisimcilik"]
+},
+
+{"x":["Persembe"," Bitirme Tezi Donemlik","Yazilim Kullanilabilirligi", "Yazilim Kullanilabilirligi" ,"Yazilim Kullanilabilirligi","Ekonomi","Ekonomi ","BOŞ  ", "BOŞ  ", "BOŞ  "]
+},
+
+{"x":["Cuma","Bitirme Tezi Donemlik ","Is Sagligi ve Guvenligi II", "Is Sagligi ve Guvenligi II" ,"BOŞ  ","Gercek Zamanli Isletim Sistemleri","Gercek Zamanli Isletim Sistemleri","Gercek Zamanli Isletim Sistemleri", " Bitirme Tezi Donemlik / Bitirme Tezi", " BOŞ "]
+}]
+
+
+
+	 			}
+	 		]}
+
+
+	 ]
+	
+},
+{
+	"sınıf":"YüksekLisans",
+	"donem":[
+		{"ad":"güz5",
+			"ders":[
+{"x" : ["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,"14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x": ["Pazartesi"," BOŞ"," Yapay Zeka", "Yapay Zeka " ," Yapay Zeka"," BOŞ"," BOŞ","BOŞ ", " BOŞ", " BOŞ"]},
+{"x": ["Sali", " BOŞ", "Model Tabanli Yazilim Muh. / Buyuk Veri/ Ileri Algoritma Analizi" , "Model Tabanli Yazilim Muh. / Buyuk Veri/ Ileri Algoritma Analizi" , "Model Tabanli Yazilim Muh. / Buyuk Veri/ Ileri Algoritma Analizi", "Bilimsel Arastirma ve Yayin Etigi ", " Bilimsel Arastirma ve Yayin Etigi", " Bilimsel Arastirma ve Yayin Etigi", " BOŞ", " BOŞ"]},
+{"x": ["Carsamba"," BOŞ","Sayisal Goruntu Isleme ","Sayisal Goruntu Isleme ", "Sayisal Goruntu Isleme" ,"Dagitik Sistemler","Dagitik Sistemler","Dagitik Sistemler"," BOŞ", " BOŞ"]},
+{"x" : ["Persembe","BOŞ ","Bilgisayar Uyg. Cizge Kurami/ Dagitik Sistemler Icin Algoritmalar", "Bilgisayar Uyg. Cizge Kurami/ Dagitik Sistemler Icin Algoritmalar" ,"Bilgisayar Uyg. Cizge Kurami/ Dagitik Sistemler Icin Algoritmalar","Bilimsel Arastirma ve Yayin Etigi","Bilimsel Arastirma ve Yayin Etigi ","Bilimsel Arastirma ve Yayin Etigi ", "BOŞ ", " BOŞ"]},
+{"x" : ["Cuma","BOŞ ","Sistem Benzetimi/Mobil ve Kablosuz Aglar", "Sistem Benzetimi/Mobil ve Kablosuz Aglar" ,"Sistem Benzetimi/Mobil ve Kablosuz Aglar ","Bilgisayar Agi Isletim Sistemleri","Bilgisayar Agi Isletim Sistemleri","Bilgisayar Agi Isletim Sistemleri", " BOŞ", " BOŞ"]}
+]
+		},{"ad":"bahar5",
+
+"ders": [
+{"x":["Saat", "08:30-09:15" , "09:30-10:15" , "10:30-11:15" , " 11:30-12:15", "13:15-14:00" ,  "14:15-15:00", "15:15-16:00", "16:15-17:00", "17:15-18:00"]},
+{"x":["Pazartesi"," BOŞ","Programlama Paradigmalari", "Programlama Paradigmalari" ,"Programlama Paradigmalari","Anlamsal Web Servisleri ","Anlamsal Web Servisleri ","Anlamsal Web Servisleri", "BOŞ ", " BOŞ"]},
+
+{"x":["Sali", "BOŞ ", "BOŞ " , " BOŞ" , "BOŞ ", "Zeki Sistemler ", " Zeki Sistemler", " Zeki Sistemler", "BOŞ ", "BOŞ "]},
+
+{"x":["Carsamba"," BOŞ"," BOŞ","BOŞ ", "BOŞ " ,"Biyoinformatik Algoritmalari","Biyoinformatik Algoritmalari","Biyoinformatik Algoritmalari"," BOŞ", " BOŞ"]},
+
+{"x":["Persembe"," BOŞ","BOŞ ", " BOŞ" ,"BOŞ "," ","BOŞ ","BOŞ ", " BOŞ", " BOŞ"]},
+
+{"x":["Cuma"," BOŞ","BOŞ ", " BOŞ" ,"BOŞ ","Bilgisayar Agi Tasarimi ve Yonetimi","Bilgisayar Agi Tasarimi ve Yonetimi","Bilgisayar Agi Tasarimi ve Yonetimi", " BOŞ", " BOŞ"]
+
+}]
+
+
+
+		}
+
+	]
+
+}
+]
